@@ -1,2 +1,3 @@
-first version
-second version update
+Day 1: Git praxtice
+Day 2: Learning staging
+Day 3: Learning commit
